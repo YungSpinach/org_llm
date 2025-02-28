@@ -1,6 +1,12 @@
 # org_llm
 
+READING LIST: 
+https://pypi.org/project/transformers/
+
+THE QUERY:
 Hello, Id like to build a LLM app for my consulting business that uses an open source LLM like LLama or Deep Seek to provide more nuanced and context-driven querying after being exposed to multiple documents owned by my business. Can you take me through the steps of how to do this please? I'd ideally like to code in python and host with a Streamlit app
+
+THE RESPONSE:
 Building a LLM (Large Language Model) app for your consulting business is a great idea! Below, I’ll walk you through the steps to create such an app using an open-source LLM like LLaMA or DeepSeek, Python, and Streamlit for hosting. This app will allow you to upload documents, process them, and provide nuanced, context-driven querying.
 
 Step 1: Define the Scope and Requirements
