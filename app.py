@@ -63,7 +63,7 @@ def generate_response(query, context, tokenizer, model):
 st.title("LLM Document Querying App")
 
 # Preload documents
-folder_path = "C:\Users\chris\OneDrive\Documents\GitHub\org_llm\documents"  # Replaced with document folder
+folder_path = r"C:\Users\Jamie\OneDrive - Cream UK Ltd\Documents\GitHub\org_llm\cream_docs"
 documents = load_documents(folder_path)
 chunks, index, embedding_model = process_documents(documents)
 
